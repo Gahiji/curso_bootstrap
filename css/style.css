@@ -1,12 +1,30 @@
+body {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
 .navbar {
     background-color: #927a9a;
 }
 
 .quemSomos {
     background-color: #7c99c6 ;
+    color: white;
 }
 
 .margin {
-    padding-top: 50px;
+    padding-bottom: 50px;
+}
 
+.parceiros {
+    background-color: #7cc4c6;
+}
+.servicos {
+    background-color: #7cc690;
+}
+
+.bg-footer {
+    background-color: #575a58;
+    color: gold;
 }
